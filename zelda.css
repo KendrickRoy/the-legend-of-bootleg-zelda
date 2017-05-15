@@ -1,0 +1,19 @@
+#play-area{
+    border: 1px solid black;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+#link{
+    position: absolute;
+    background-color: white;
+    width: 20px;
+    height: 22px;
+    top: 100px;
+}
+
+body{
+    background-image: url("");
+}
