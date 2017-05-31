@@ -11,7 +11,17 @@
     background-color: white;
     width: 60px;
     height: 62px;
-    top: 100px;
+    left: 300px;
+    
+}
+
+#rock{
+    position: absolute;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    top: 200px;
+    left: 200px;
 }
 
 body{
